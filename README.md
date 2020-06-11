@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build me a restaurant... website
 
 ## Installation
@@ -43,3 +44,7 @@ Using the device simulator in the browser, examine how the website you built res
 3) You may want to hide certain elements from the mobile view using the `display: none` property
 
 Using the above points as a guideline, try to create mobile and desktop versions of your website.
+=======
+# roasted
+roasted
+>>>>>>> 161fb8d7a21a12665fd17e05508bba1eae5f128e
