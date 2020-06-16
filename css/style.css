@@ -1790,6 +1790,7 @@ textarea:focus, input:focus, select:focus, .bootstrap-select .dropdown-toggle:fo
 	padding-top:25px;
 	margin-top:70px;
 	padding-bottom:25px;
+	color: #1E69B8;
 }
 
 .copyright-main .copy-title{
